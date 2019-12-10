@@ -1,4 +1,4 @@
-from bt_proximity import BluetoothRSSI
+from bt_proximity.bt_rssi import BluetoothRSSI
 import time
 import sys
 
